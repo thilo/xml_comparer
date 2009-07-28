@@ -12,7 +12,7 @@ Nokogiri
 
     XmlComparer.new.compare(reference_xml_string_or_io, sample_xml_string_or_io)
 
-Xml returns true if the documents are equal and false otherwise.
+compare returns true if the documents are equal and false otherwise.
 
 ### Options
 
