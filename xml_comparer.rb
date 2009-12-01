@@ -1,3 +1,5 @@
+require 'lib/hash_ext'
+require 'set'
 require 'nokogiri'
 
 class XmlComparer
